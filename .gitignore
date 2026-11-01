@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# Reports and traces (generated on every run)
+report.html
+assets/
+test-results/
+
+# IDE
+.idea/
+.vscode/
